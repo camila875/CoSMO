@@ -1,2 +1,2 @@
 # CoSMO
-An ontology for representing Consent in Social Media.
+An ontology for representing Consent in Social Media with a view towards LGPD compliance. The LGPD is the Brazilian Data Protection Law (Law No. 13,709 of August 14, 2018) that has consent as one of the lawful bases for processing personal data. This ontology aims to provide a representation of processes related to consent provided by the data subject for processing personal data on social media platforms.
