@@ -1,6 +1,6 @@
 # CoSMO: Consent in Social Media Ontology
 
-CoSMO is an ontology designed for the semantic representation of individuals' consent in digital social media. Based on Brazil’s LGPD and international guidelines, it integrates legal, technical, and cognitive aspects to support privacy solutions, transparency, and user awareness.
+CoSMO is an ontology designed for the semantic representation of individuals' consent in digital social media. Based on Brazil’s LGPD (Brazilian General Data Protection Law) and international guidelines, it integrates legal, technical, and cognitive aspects to support privacy solutions, transparency, and user awareness.
 
 ## Motivation
 
