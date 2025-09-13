@@ -19,8 +19,9 @@ The processing of personal data on digital social media platforms requires users
 
 The ontology is implemented in OWL using Protégé. It follows best practices for ontology reuse, integrating FOAF, IAO, and BFO.  
 Available files:
-- `CoSMO.owl` – main OWL ontology  
-- `CoSMO.ttl` – Turtle version  
+- **`CoSMO v1.owl`** – Main ontology in OWL (RDF/XML serialization).  
+- **`CoSMO v1.ttl`** – Same ontology in Turtle syntax.  
+- **`bfo-core.owl`** – External ontology (**Basic Formal Ontology – BFO**), used as an upper ontology to provide conceptual foundation for CoSMO.
 
 
 ## Contribution
